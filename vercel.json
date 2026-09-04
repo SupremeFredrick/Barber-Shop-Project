@@ -1,5 +1,6 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
+  "outputDirectory": "barbershop-website",
   "cleanUrls": true,
   "trailingSlash": false
 }
